@@ -23,6 +23,11 @@ EduSight provides a centralized dashboard where student-related information can 
 
 The current version uses sample data and provides the frontend foundation for connecting a machine-learning prediction API in the future.
 
+
+![alt text](<Screenshot 2026-09-10 155122.png>)
+
+
+![alt text](<Screenshot 2026-09-10 155142.png>)
 ---
 
 ## ✨ Features
@@ -62,6 +67,9 @@ The Risk Analysis section provides:
 * Risk-based insights
 * Recommended intervention actions
 
+![alt text](<Screenshot 2026-09-10 195642.png>)
+
+
 ### 📈 Performance Analytics
 
 The Performance section provides:
@@ -69,6 +77,9 @@ The Performance section provides:
 * Academic KPI cards
 * Department-wise student distribution
 * Interactive charts
+
+![alt text](<Screenshot 2026-09-10 195050.png>)
+
 
 ### 📱 Responsive Design
 
