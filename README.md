@@ -67,7 +67,7 @@ The Risk Analysis section provides:
 * Risk-based insights
 * Recommended intervention actions
 
-![Risk Analysis](./Risk Analysis.png)
+![RiskAnalysis](./RiskAnalysis.png)
 
 ### 📈 Performance Analytics
 
